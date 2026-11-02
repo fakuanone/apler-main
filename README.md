@@ -1,3 +1,3 @@
 # Code and Proposed Dataset for APLER
 
-![APLER Framework](framework.png)
+![APLER Framework](Framework.png)
